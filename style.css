@@ -1,5 +1,18 @@
 body{
-  background-color: #CCCCCC
+  background-image: url("foto02.jpg");
+  background-position: static;
+}
+#logotipo{
+  width: 200px;
+  border: 5px solid blue;
+  margin-left: 10px;
+}
+.menu{
+  border: 5px solid red;
+}
+nav li {
+  display: inline;
+  border: 5px solid blue;
 }
 h1 {
   text-align: center; color: rgb(20, 23, 45); font-size: 25px
@@ -28,10 +41,10 @@ p {
 p1 {
   text-align: left; color: red; font-size: 25px
 }
-#progra01{
+#fotoinício{
   width: 20%;
-  border: 5px solid red;
-  margin-left: 400px
+  border: 5px solid white;
+  margin-left: 10px;
 }
 .modelos{
   text-align: justify; font-size: 25px; color: blue
